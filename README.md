@@ -5,4 +5,4 @@ Repositorio con el material y las prácticas impartidas en la asignatura Gestió
 * **Javier Cortés Tejada** - [Javi96](https://github.com/Javi96)
 * **Biel Sellés Salvá**
 * **Aitor Cayón Ruano**
-* **Fernando Fernández Pérez**
+* **Fernando Fernández Pérez** - [TheCorPlay](https://github.com/TheCorPlay)
