@@ -1,0 +1,4 @@
+En insert_question(), en el campo "Descripción"
+	',CURRENT_TIMESTAMP); DROP TABLE Questions--'
+
+	',CURRENT_TIMESTAMP); UPDATE Questions SET author = "Anonymous";--'

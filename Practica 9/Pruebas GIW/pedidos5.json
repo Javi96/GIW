@@ -1,0 +1,6 @@
+{"_id":{"$oid":"584ebd92323e95478e6272ef"},"lineas":[{"precio":2.44,"nombre":"ea","total":21.96,"cantidad":9},{"precio":3.62,"nombre":"mollitia","total":21.72,"cantidad":6}],"cliente":853,"total":43.68}
+{"_id":{"$oid":"584ebd92323e95478e6272f1"},"lineas":[{"precio":5.27,"nombre":"autem","total":42.16,"cantidad":8}],"cliente":70,"total":42.16}
+{"_id":{"$oid":"584ebd92323e95478e6272f4"},"lineas":[{"precio":3.74,"nombre":"voluptatibus","total":3.74,"cantidad":1}],"cliente":142,"total":3.74}
+{"_id":{"$oid":"584ebd92323e95478e6272f9"},"lineas":[{"precio":3.63,"nombre":"id","total":25.41,"cantidad":7},{"precio":3.8,"nombre":"ducimus","total":15.2,"cantidad":4}],"cliente":70,"total":40.61}
+{"_id":{"$oid":"584ebd92323e95478e6272fa"},"lineas":[{"precio":4.03,"nombre":"possimus","total":8.06,"cantidad":2}],"cliente":70,"total":8.06}
+{"_id":{"$oid":"584ebd92323e95478e6272df"},"lineas":[{"precio":2.44,"nombre":"ea","total":21.96,"cantidad":9},{"precio":3.62,"nombre":"mollitia","total":21.72,"cantidad":6}],"cliente":853,"total":43.68}

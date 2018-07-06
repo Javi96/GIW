@@ -1,0 +1,9 @@
+1|Juan Miedo|1955-10-23|608900890|La isla del tesoro,33|Getafe|Buen comprador
+2|Pepe Pepino|1961-12-13|607899005|Plaza Mayor,56|Pozuelo|
+3|Peper Mur|1976-04-02|917895679|Esparteros, 5|Getafe|
+4|Mohamed Alí|1968-11-12|609440567|Juan sin miedo,4|Pozuelo|Le gusta la ciencia ficción
+5|Alfredo Mesa|1986-08-17|690890456|Gran vía,56|Getafe|Le gustan los ensayos
+6|Pedro Reyes|1957-08-25|917890056|Plaza de España, 34|Pozuelo|Le gusta la historia
+7|Isabel Olvido|1977-07-20|915678900|Principal,3|Getafe|Le gusta la novela de amor
+8|Mariano Calcetines|1996-11-09|634567876|Aviación,34|Getafe|
+9|María Calero|1984-11-08|645666900|Río Ebro,4|Las rozas|
